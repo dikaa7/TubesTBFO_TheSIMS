@@ -15,9 +15,9 @@ Berisi program untuk tubes TBFO
 ## Folder Src
 - Berisi file sourcecode untuk tubes TBFO
 - List file:
-- -constant.py
-- -sims.py
-- -play.py
+- constant.py
+- sims.py
+- play.py
 ### constant.py
 - Menyimpan nilai constant program, seperti MAXENERGY, MINFUN, dll
 - Ubah nilai constant untuk pengembangan lebih lanjut
