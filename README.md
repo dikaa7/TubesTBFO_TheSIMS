@@ -1,6 +1,7 @@
 # TUBES-TBFO
 Tugas TBFO
-Berisi program untuk tubes TBFO.
+Berisi program untuk tubes TBFO
+
 ###################
 Deskripsi program::
 
