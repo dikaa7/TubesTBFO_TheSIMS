@@ -12,7 +12,12 @@ Berisi program untuk tubes TBFO
 - Program memiliki 3 parameter Hygiene, Energy, dan Fun
 - User memilih aksi untuk mengubah parameter.
 
-## Spesifikasi file .py
+## Folder Src
+- Berisi file sourcecode untuk tubes TBFO
+- List file:
+- -constant.py
+- -sims.py
+- -play.py
 ### constant.py
 - Menyimpan nilai constant program, seperti MAXENERGY, MINFUN, dll
 - Ubah nilai constant untuk pengembangan lebih lanjut
@@ -20,5 +25,5 @@ Berisi program untuk tubes TBFO
 ### sims.py
 - Berisi prosedur-prosedur aksi untuk program, seperti minum, makan,dll
 
-### test.py
+### play.py
 - Fungsi utama yang menampilkan menu dan menjalankan program secara keseluruhan.
