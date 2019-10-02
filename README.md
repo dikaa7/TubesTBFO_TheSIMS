@@ -3,9 +3,9 @@ Tugas TBFO
 Berisi program untuk tubes TBFO
 
 ## Detail
-- Dibuat oleh : Ade Surya Handika
-- Tanggal     : 14 September 2019
-- Version     : 1.1.0
+- Dibuat oleh : Ade Surya Handika, Muhammad Rizki Ismail
+- Tanggal     : 19 September 2019
+- Version     : 1.1.1
 
 ## Spesifikasi Program
 ### THE SIMS
