@@ -3,7 +3,7 @@
 # Topik: Tubes TBFO
 # Spesifikasi : Program berisi konstanta nilai MAX dan MIN
 # Programmer : 
-# Ade Surya Handika		- 13518007
+# Ade Surya Handika	- 13518007
 # Muhammad Rikzi Ismail - 13518148
 
 MINENERGY = 0
