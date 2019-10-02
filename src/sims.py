@@ -63,6 +63,7 @@ class Status:
 			self.fun = int(input("# Masukkan nilai Fun       : "))
 		
 		print("Status berhasil diubah menjadi : (" + str(self.hygiene) + "," + str(self.energy) + "," + str(self.fun) + ")")
+		
 	def TulisAksi(self):
 		# Menampilkan list aksi yang dapat digunakan
 		print("=============LIST AKSI==============")
