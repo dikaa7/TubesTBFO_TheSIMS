@@ -12,7 +12,7 @@ Berisi program untuk tubes TBFO
 - Program memiliki 3 parameter Hygiene, Energy, dan Fun
 - User memilih aksi untuk mengubah parameter.
 
-### Folder doc 
+## Folder doc 
 - Berisi dokumentasi program yang berupa screenshot testcase dan header
 
 ## Folder Src
